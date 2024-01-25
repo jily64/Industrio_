@@ -15,6 +15,14 @@
     {"name":"Notes","order":13,"path":"folders/Notes.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Buildings","order":1,"path":"folders/Sprites/Buildings.yy",},
+    {"name":"GUI","order":3,"path":"folders/Sprites/GUI.yy",},
+    {"name":"GUI","order":4,"path":"folders/Objects/GUI.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_movement","order":2,"path":"objects/obj_movement/obj_movement.yy",},
+    {"name":"obj_small_house","order":1,"path":"objects/obj_small_house/obj_small_house.yy",},
+    {"name":"obj_cursor","order":1,"path":"objects/obj_cursor/obj_cursor.yy",},
+    {"name":"setup","order":3,"path":"objects/setup/setup.yy",},
+  ],
 }
