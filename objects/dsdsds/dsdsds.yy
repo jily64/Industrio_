@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "test",
+  "name": "dsdsds",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
